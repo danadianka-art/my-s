@@ -1,0 +1,48 @@
+body {
+    font-family: sans-serif;
+    padding: 20px;
+    background-color: #f4f4f4;
+}
+
+h1 {
+    color: #333;
+}
+
+/* Твоє завдання - додати стилі для кнопок сюди! */
+.btn-logika{
+    text-decoration: none;
+    color: blue;
+    background-color: white;
+    padding: 10px 20px;
+    margin: 15px;
+    border: 2px solid blue;
+    border-radius: 25px;
+    font-weight: 15px;
+    font-size: 20px;
+}
+
+.btn-youtube{
+    text-decoration: none;
+    color: white;
+    background-color: red;
+    padding: 10px 20px;
+    margin: 15px;
+    border: 2px solid red;
+    border-radius: 10px;
+    font-weight: 30px;
+    font-size: 20px;
+}
+
+.btn-roblox{
+    text-decoration: none;
+    color: white;
+    background-color: darkgray;
+    padding: 10px 30px;
+    margin: 15px;
+    border: 2px solid black;
+    border-radius: 0px;
+    font-weight: 30px;
+    font-size: 20px;
+}
+
+
